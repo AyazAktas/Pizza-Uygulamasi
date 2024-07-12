@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tasarim</string>
+    <string name="pizzaName">Etli Peynirli</string>
+    <string name="peynirYazi">Peynir</string>
+    <string name="sucukYazi">Sucuk</string>
+    <string name="zeytinYazi">Zeytin</string>
+    <string name="biberYazi">Biber</string>
+    <string name="teslimatSure">Tahmini Teslimat: 20 dk</string>
+    <string name="aciklama">Et severler, pizzanızla buluşmaya hazır olun !</string>
+    <string name="fiyat">150.00 ₺</string>
+    <string name="sepet">SEPETE EKLE</string>
+
+</resources>

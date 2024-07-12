@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tasarim</string>
+    <string name="pizzaName">Beef Cheese</string>
+    <string name="peynirYazi">Cheese</string>
+    <string name="sucukYazi">Sausage</string>
+    <string name="zeytinYazi">Olive</string>
+    <string name="biberYazi">Pepper</string>
+    <string name="teslimatSure">Estimated delivery : 20 min</string>
+    <string name="aciklama">Meat lover, get ready to meet your pizza !</string>
+    <string name="fiyat">150.00 ₺</string>
+    <string name="sepet">ADD TO CART</string>
+
+</resources>
